@@ -7,5 +7,4 @@
 
 ![capture](./src/assets/capture.gif)
 
-
-[DEMO](https://75x7p.csb.app/)
+<a href="https://75x7p.csb.app/" target="_blank">DEMO</a>
